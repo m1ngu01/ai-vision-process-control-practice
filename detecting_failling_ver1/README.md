@@ -1,0 +1,20 @@
+# detecting_failling_ver1
+
+## 프로젝트 명
+- 낙상 감지 프로그램
+
+## 기술 스택
+- Python
+- OpenCV (cv2)
+- MediaPipe Pose
+- Tkinter (GUI)
+- Pillow (PIL)
+
+## 구현 내용
+- MediaPipe Pose로 사람의 관절(랜드마크)을 추출해 낙상 여부를 판단합니다.
+- 낙상 판단 기준은 다음과 같은 간단한 휴리스틱을 사용합니다.
+  - 머리(코) 위치가 발목 높이 근처까지 내려간 경우
+  - 이전 프레임 대비 머리 y 위치가 급격히 내려간 경우
+  - 손목 위치가 발목 높이 근처에 있는 경우
+- Tkinter GUI에서 웹캠 또는 MP4 파일을 선택해 실시간으로 결과를 표시합니다.
+- 배경 이미지(`bg_fallDetect.png`)를 창 배경으로 사용합니다.

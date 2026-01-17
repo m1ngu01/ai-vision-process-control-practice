@@ -1,0 +1,4 @@
+﻿  Algorithm_subject_Selection.cpp
+C:\Users\dlaal\source\repos\Algorithm_project_ing\Arlgorithm_subject_Selection\Algorithm_subject_Selection.cpp(51): warning C4715: 'Selection': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dlaal\source\repos\Algorithm_project_ing\Arlgorithm_subject_Selection\Algorithm_subject_Selection.cpp(17): warning C4715: 'medians': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Arlgorithm_subject_Selection.vcxproj -> C:\Users\dlaal\Source\Repos\Algorithm_project_ing\x64\Debug\3.Algorithm_subject_Selection.exe

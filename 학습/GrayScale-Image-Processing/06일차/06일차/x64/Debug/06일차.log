@@ -1,0 +1,31 @@
+﻿  06_01 GrayScale image Processing_GA1.c
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(124,9): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(229,21): warning C4244: '함수': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(229,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(419,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(420,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(443,18): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(443,44): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(444,18): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(444,44): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(458,77): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(459,78): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(582,67): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(627,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(676,24): warning C4101: 'oriY' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(676,18): warning C4101: 'oriX' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(675,6): warning C4101: 'angle' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(789,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(862,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(937,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1016,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1089,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1147,34): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1180,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1240,36): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1273,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1352,21): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1450,6): warning C4101: 'ans' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1529,25): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\06일차\06_01 GrayScale image Processing_GA1.c(1587,2): warning C4098: 'binarizationAverage': 'void' 함수에서 값을 반환하고 있습니다.
+  06일차.vcxproj -> C:\Users\User\source\repos\06일차\x64\Debug\06일차.exe

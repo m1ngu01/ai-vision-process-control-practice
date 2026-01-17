@@ -1,0 +1,66 @@
+﻿  ColorImage1Doc.cpp
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(669,28): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(670,28): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(671,28): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(711,33): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(733,14): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(841,6): warning C4101: 'tarX' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(841,12): warning C4101: 'tarY' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(872,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(873,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(880,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(906,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(907,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(914,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(940,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(941,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(948,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(987,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(988,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1016,37): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1017,37): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1035,65): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1036,66): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1374,25): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1375,25): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1376,25): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1443,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1451,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1459,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1587,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1595,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1603,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1711,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1719,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1727,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1835,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1843,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1851,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1959,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1967,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(1975,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2083,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2091,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2099,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2245,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2259,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2273,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2429,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2443,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2457,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2565,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2573,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2581,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2608,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2609,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2616,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2643,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2650,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2657,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2729,76): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2730,76): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2731,76): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2868,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2875,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\ColorImage1\ColorImage1Doc.cpp(2882,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColorImage1.vcxproj -> C:\Users\User\source\repos\ColorImage1\x64\Debug\ColorImage1.exe

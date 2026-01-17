@@ -1,0 +1,2 @@
+C:\Users\dlaal\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\dlaal\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.pdb
