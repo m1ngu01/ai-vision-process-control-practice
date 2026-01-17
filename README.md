@@ -1,4 +1,4 @@
-# detecting_failling_ver1
+# AI비전 활용 공정제어 실무
 
 ## 프로젝트 명
 - 낙상 감지 프로그램
